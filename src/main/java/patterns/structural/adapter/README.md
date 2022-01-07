@@ -1,0 +1,1 @@
+Create an userService for a class that has a non-English interface, one or two methods are enough
